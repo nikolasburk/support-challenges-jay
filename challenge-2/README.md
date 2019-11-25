@@ -2,7 +2,7 @@
 
 ## Problem description
 
-The error occured after I upgraded my `prisma2` development dependency to version `preview017`. Whenever I'm trying to start my project, I'm getting this error:
+The error occured after I upgraded my `prisma2` development dependency to version `preview017`. Whenever I'm trying to start my app, I'm getting this error:
 
 ```
 $ yarn dev
