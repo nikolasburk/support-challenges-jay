@@ -1,0 +1,27 @@
+{
+  "version": "0.3.14-fixed",
+  "steps": [
+    {
+      "stepType": "CreateField",
+      "model": "User",
+      "field": "name",
+      "type": "String",
+      "arity": "required"
+    },
+    {
+      "stepType": "DeleteField",
+      "model": "User",
+      "field": "firstName"
+    },
+    {
+      "stepType": "DeleteField",
+      "model": "User",
+      "field": "lastName"
+    },
+    {
+      "stepType": "DeleteField",
+      "model": "Post",
+      "field": "views"
+    }
+  ]
+}

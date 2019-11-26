@@ -1,0 +1,25 @@
+{
+  "version": "0.3.14-fixed",
+  "steps": [
+    {
+      "stepType": "DeleteModel",
+      "model": "Post"
+    },
+    {
+      "stepType": "DeleteField",
+      "model": "User",
+      "field": "email"
+    },
+    {
+      "stepType": "DeleteField",
+      "model": "User",
+      "field": "posts"
+    },
+    {
+      "stepType": "UpdateField",
+      "model": "User",
+      "field": "name",
+      "arity": "required"
+    }
+  ]
+}

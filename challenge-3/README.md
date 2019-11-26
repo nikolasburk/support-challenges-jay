@@ -1,0 +1,3 @@
+# Challenge 3
+
+Hello! I want to update my database schema to split the `name` column of the `User` table into two parts: `firstName` and `lastName`. The problem is that I already have production data in my database and I'm not sure how I can achieve the migration. I don't think Prisma supports this kind of migration where the data needs to be migrated in addition to a schema change, is there a workaround to achieve the migration without losing data but actually splitting the existing `name` values into two and still use Prisma afterwards?

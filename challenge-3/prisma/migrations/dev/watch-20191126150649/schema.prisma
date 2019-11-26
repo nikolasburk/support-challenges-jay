@@ -1,0 +1,13 @@
+generator photon {
+  provider = "photonjs"
+}
+
+datasource db {
+  provider = "sqlite"
+  url = "***"
+}
+
+model User {
+  id    String  @default(cuid()) @id
+  name  String
+}
