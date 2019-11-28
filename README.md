@@ -9,16 +9,12 @@ Clone this repository and start working on the challenges. Each challenge contai
 For each challenge, please include:
 
 - a friendly response to the user who ran into the problem (written in Markdown)
-- a description of your personal thought process for how you approached the problem
+- a description of your personal thought process for how you approached the problem (except challenges 2 and 6)
 - a fix or workaround to resolve the issue (if possible)
 
 Please submit your solutions via another GitHub repository on your own account. Feel free to ping `@nikolasburk` on the [Prisma Slack](http://slack.prisma.io/) if you're running into any problems.
 
-### Notes
-
-Note that you don't need to include the description of your personal thought process for challenges 2 and 6.
-
-If you're unfamiliar with the basics of the Prisma Framework, we recommend running through the [Prisma Framework tutorial](https://github.com/prisma/prisma2/blob/master/docs/tutorial.md) first.
+- If you're unfamiliar with the basics of the Prisma Framework, we recommend running through the [Prisma Framework tutorial](https://github.com/prisma/prisma2/blob/master/docs/tutorial.md) first.
 
 ### Time estimate & Compensation
 
