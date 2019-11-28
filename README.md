@@ -9,3 +9,5 @@ For each challenge, please include:
 - a fix or workaround to resolve the issue (if possible)
 
 If you're unfamiliar with the basics of the Prisma Framework, we recommend running through the [Prisma Framework tutorial](https://github.com/prisma/prisma2/blob/master/docs/tutorial.md) first.
+
+Please submit your solutions via another GitHub repository on your own account.
