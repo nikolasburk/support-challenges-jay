@@ -6,7 +6,7 @@ This project represents a project that was submitted by a user and contains a pr
 
 #### 1. Set up a PostgreSQL database and import data
 
-You find the data to import in [`./db/mydb.sql`](./db/mydb.sql). If you're unsure about how to import it into your database, you can learn more about this [here](https://github.com/prisma/prisma2/blob/master/docs/import-and-export-data/postresql.md).
+You find the data to import in [`./db/mydb1.sql`](./db/mydb1.sql). If you're unsure about how to import it into your database, you can learn more about this [here](https://github.com/prisma/prisma2/blob/master/docs/import-and-export-data/postresql.md).
 
 #### 2. Specify database credentials in Prisma schema
 
