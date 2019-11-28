@@ -4,7 +4,7 @@ generator photon {
 
 datasource db {
   provider = "postgresql"
-  url      = "postgresql://nikolasburk:nikolasburk@localhost:5432/mydb"
+  url      = "postgresql://USER:PASSWORD@HOST:PORT/DB_NAME"
 }
 
 model User {

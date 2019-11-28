@@ -1,5 +1,35 @@
 # Challenge 2
 
+## Project setup
+
+This project represents a project that was submitted by a user and contains a problem they ran into. To get the project into the right state for tackling the problem, do the following:
+
+#### 1. Set up a PostgreSQL database and import test data
+
+You find the data to import in [`./db/mydb.sql`](./db/mydb.sql). If you're unsure about how to import it into your database, you can learn more about this [here](https://github.com/prisma/prisma2/blob/master/docs/import-and-export-data/postresql.md).
+
+#### 2. Specify database credentials in Prisma schema
+
+Go into [`./prisma/schema.prisma`](./prisma/schema.prisma) and replace the uppercase placeholders in the `url` of the `datasource` with the connection details of your database.
+
+#### 3. Install project dependencies
+
+Run the following command in this directory:
+
+```
+npm install
+```
+
+#### 4. Run Prisma's development mode
+
+Start the app with this command:
+
+```
+npm run dev
+```
+
+This should now throw the error that's further described below.
+
 ## Problem description
 
 The error occured after I upgraded my `prisma2` development dependency to version `preview017`. Whenever I'm trying to start my app, I'm getting this error:
