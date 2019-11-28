@@ -20,7 +20,7 @@ Run the following command in this directory:
 npm install
 ```
 
-#### 4. Run Prisma's development mode
+#### 4. Run the app
 
 Start the app with this command:
 
