@@ -8,4 +8,4 @@ Hello! I am starting a new project where I want to build a REST API that's conne
 - Sequelize
 - Photon.js
 
-I'm not a SQL expert so I'd like to avoid working too low level. Any idea which of these options might be the most appropriate for me?
+I'm not a SQL expert so I'd like to avoid working too low level. Any idea which of these options might be the most appropriate for me and why?
