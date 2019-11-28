@@ -16,11 +16,10 @@ Please submit your solutions via another GitHub repository on your own account. 
 
 ### Notes
 
-Note that you don't need to include the description of your personal thought process for challenges 5 and 6.
+Note that you don't need to include the description of your personal thought process for challenges 2 and 6.
 
 If you're unfamiliar with the basics of the Prisma Framework, we recommend running through the [Prisma Framework tutorial](https://github.com/prisma/prisma2/blob/master/docs/tutorial.md) first.
 
-
 ### Time estimate & Compensation
 
-The time estimate for this task is **1 day** and you will be paid with a rate of **250 Euros** per day. You can spread the work across multiple days if you prefer.
+The time estimate for this task is **1 day** and you will be paid with a rate of **250 Euros** per day. You can spread the work across multiple days if you prefer. Please coordinate the payment with [Josh](mailto:mcleod@prisma.io).
