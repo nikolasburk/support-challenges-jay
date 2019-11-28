@@ -25,7 +25,7 @@ npm install
 Start Prisma's development mode with the following command:
 
 ```
-prisma2 dev
+npx prisma2 dev
 ```
 
 This should now throw the error that's further described below. 

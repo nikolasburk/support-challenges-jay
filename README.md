@@ -5,4 +5,5 @@ Clone this repository and start working on the challenges. Each challenge contai
 For each challenge, please include:
 
 - a friendly response to the user who ran into the problem (written in Markdown)
+- a description of your personal thought process for how you approached the problem
 - a fix or workaround to resolve the issue (if possible)
