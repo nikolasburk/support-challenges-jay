@@ -14,7 +14,7 @@ For each challenge, please include:
 
 Please submit your solutions via another GitHub repository on your own account. Feel free to ping `@nikolasburk` on the [Prisma Slack](http://slack.prisma.io/) if you're running into any problems.
 
-- If you're unfamiliar with the basics of the Prisma Framework, we recommend running through the [Prisma Framework tutorial](https://github.com/prisma/prisma2/blob/master/docs/tutorial.md) first.
+If you're unfamiliar with the basics of the Prisma Framework, we recommend running through the [Prisma Framework tutorial](https://github.com/prisma/prisma2/blob/master/docs/tutorial.md) first.
 
 ### Time estimate & Compensation
 
